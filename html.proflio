@@ -1,0 +1,42 @@
+<html>
+<body style="background-color:cyan">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<div class="w3-contain>
+  <div class="w3-bar w3-border w3-light-grey">
+  <a href="#" class="w3-bar-item w3-button">home</a>
+  <a href="#" class="w3-bar-item w3-button w3-hover-maroon">news</a>
+  <a href="#" class="w3-bar-item w3-button w3-hover-maroon">home</a>
+  <a href="#" class="w3-bar-item w3-button w3-hover-maroon">contacts</a>
+</div>
+<center>
+  <hr>
+<h1> about me</h2>
+
+<p>Hi,my name is Rishi and im giong to tell a little about.I am 10 years old.My favriote sport or sports is basketball and football.My hobbies are play games with my freinds like tag, beasketball, football and some board games.</p>
+<p>
+But i also
+ like playing online games like roblox.Some of you mitght be thinking whats roblox well its a game with difrrent games like fighting games action and others like minecraft and obbys.some of my favriote games in their is bedwars blox fruits and simulater games.</p>
+
+ <p>Now my favrioite singer is imagen dragons.you have probly heard of him.I really like his music because he is a band and i like band.some of my favriote songs are bones,believer and enemy.</p>
+ <hr>
+<img src="https://www.shareicon.net/data/512x512/2016/06/25/786525_people_512x512.png" width="205" height="205">
+<hr>
+
+
+
+
+
+<center>
+
+
+
+
+
+
+
+
+</body>
+</html>
